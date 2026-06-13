@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
+public record Product(String name,int price)
+{
 
-public record Product() {
+
 }
